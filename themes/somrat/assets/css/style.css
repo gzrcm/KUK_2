@@ -2,6 +2,9 @@
    Start Preloader & General Styling
 ----------------------------------*/
 
+$font-heading: {{ $.Site.Params.heading_font | default "'Ruda', sans-serif" }};
+$font-body: {{ $.Site.Params.body_font | default "'Roboto', sans-serif" }}
+
 html {
   height: 100%;
 }
@@ -137,7 +140,7 @@ body {
 .scroll-up.hvr-icon-up:before {
   content: "\f077";
   font-size: 15px;
-  font-family: 'Font Awesome 5 Free';
+  font-family: 'Ruda';
   font-weight: 900;
   height: 30px;
   width: 30px;
@@ -913,7 +916,7 @@ input:checked+label span:last-child {
 .about-me .hvr-icon-hang:before {
   content: "\f0ab";
   position: absolute;
-  font-family: 'Font Awesome 5 Free';
+  font-family: 'Ruda', bold;
   right: 8px;
   font-weight: 900;
   top: 6px;
@@ -1635,7 +1638,7 @@ textarea.form-control::-webkit-input-placeholder,
 .hvr-icon-push:before {
   content: "\f1d8";
   right: 19px;
-  font-family: 'Font Awesome 5 Free';
+  font-family: 'Ruda';
   font-weight: 900;
 }
 
