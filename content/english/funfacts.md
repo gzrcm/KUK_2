@@ -9,7 +9,7 @@ funfacts:
   name: HANDS TO WORK
 - count: "30"
   image: images/icons/clock.png
-  name: Hours Worked PER DAY
+  name: HOURS WORKED PER DAY
 - count: "25"
   image: images/icons/project.png
   name: SPREADSHEETS VANQUISHED

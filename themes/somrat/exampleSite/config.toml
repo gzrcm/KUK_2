@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+title = "Known Unknowns"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -62,7 +62,7 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 #################### default parameters ################################
 [params]
-favicon = "images/favicon.png"
+favicon = "images/favicon1.png"
 logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 logo_width = "150px"
