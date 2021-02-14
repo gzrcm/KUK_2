@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ruda', sans-serif;
   height: 100%;
 }
 
@@ -282,7 +282,7 @@ body {
   height: 100%;
   color: white;
   font-size: 30px;
-  font-family: 'Rubik', sans-serif !important;
+  font-family: 'Ruda', sans-serif !important;
   font-weight: 300;
   z-index: 10;
 }
@@ -312,7 +312,7 @@ body {
   margin-top: 18px;
   text-decoration: none;
   color: white;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ruda', sans-serif;
   font-size: 19px;
   font-weight: 500;
   border: 2px solid white;
@@ -402,7 +402,7 @@ input:checked+label span:last-child {
   display: none;
   z-index: 11;
   color: #fff;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ruda', sans-serif;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -506,7 +506,7 @@ input:checked+label span:last-child {
 
 .fullscreen-nav-holder a {
   color: white;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ruda', sans-serif;
   font-size: 20px;
   font-weight: 500;
   text-decoration: none;
@@ -1340,14 +1340,14 @@ ul.experience-chart h4 {
 
 .item-caption h2 {
   font-size: 32px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ruda', sans-serif;
   font-weight: 700;
   padding-left: 13px;
 }
 
 .item-caption p {
   padding-left: 16px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ruda', sans-serif;
   font-weight: 500;
 }
 
@@ -1386,7 +1386,7 @@ ul.experience-chart h4 {
   margin-top: 25px;
   text-decoration: none;
   color: #6f6f6f;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ruda', sans-serif;
   font-size: 17px;
   font-weight: 500;
   border: 2px solid #6f6f6f;

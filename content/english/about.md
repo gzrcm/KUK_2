@@ -1,7 +1,7 @@
 ---
 button:
   enable: true
-  label: Learn More
+  label: Learn Even More ?
   link: 'https://www.linkedin.com/in/jacobbaisley/'
 custom_attributes: ""
 custom_class: ""
@@ -35,7 +35,7 @@ skill:
   - name: Programming
     percentage: 75%
   title: SKILL
-title: KNOW MORE <br> ABOUT ME
+title: LEARN MORE <br> ABOUT ME
 ---
 
 I’m Jacob, a professional intelligence analyst and data scientist. I help decision-makers connect the dots between their business goals and realisation using practical statistical methods and heuristic process design. I could bore you with lots of details about me, but why not show instead of tell. 
