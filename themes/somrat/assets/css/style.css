@@ -916,7 +916,7 @@ input:checked+label span:last-child {
 .about-me .hvr-icon-hang:before {
   content: "\f0ab";
   position: absolute;
-  font-family: 'Ruda', bold;
+  font-family: 'Font Awesome 5 Free';
   right: 8px;
   font-weight: 900;
   top: 6px;

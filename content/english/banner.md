@@ -1,5 +1,5 @@
 ---
-bg_image: images/backgrounds/full-nav-bg.jpg
+bg_image: images/backgrounds/full-nav-bg.png
 button:
   enable: true
   label: HIRE ME
@@ -11,16 +11,17 @@ first_name: Jacob
 last_name: Baisley
 occupations:
 - Data Scientist
-- Nerd
-- Consultant
-- Wizard
+- Video Gamer
+- Analytics Consultant
+- Wizard of Space & Time
 - Project Manager
 - Canoist
 - Rock Climber
 - Runner
 - Programmer
-- D&D Palyer
+- D&D Player
 - Intelligence Expert
+- Whiskey Drinker
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
