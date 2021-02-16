@@ -17,7 +17,7 @@ library(gridExtra)
 
 ### TNG ###
 
-TNG <- read_csv("C://Users/jacob/Documents/KUK_2/content/Data/TNG.csv", 
+TNG <- read_csv("https://raw.githubusercontent.com/gzrcm/KUK_2/master/content/Data/TNG.csv", 
                 col_types = cols(X1 = col_skip()))
 
 TNG_chord<-as.matrix(reshape2::dcast(TNG, chr~to,fill=0))
@@ -31,7 +31,7 @@ diag(TNG_chord)=0
 TNG_CD<-chorddiag(TNG_chord,width = 500, showTicks = F, groupnameFontsize = 14, groupnamePadding = 10, margin = 90,groupColors = rainbow(12))
 
 ### DS9 ###
-DS9 <- read_csv("C://Users/jacob/Documents/KUK_2/content/Data/DS9.csv", 
+DS9 <- read_csv("https://raw.githubusercontent.com/gzrcm/KUK_2/master/content/Data/DS9.csv", 
                 col_types = cols(X1 = col_skip()))
 
 DS9_chord<-as.matrix(reshape2::dcast(DS9, chr~to,fill=0))
@@ -45,7 +45,7 @@ diag(DS9_chord)=0
 DS9_CD<-chorddiag(DS9_chord,,width=500, showTicks = F, groupnameFontsize = 14, groupnamePadding = 10, margin = 90,groupColors = rainbow(12))
 
 ### VOY ###
-VOY <- read_csv("C://Users/jacob/Documents/KUK_2/content/Data/vOY.csv", 
+VOY <- read_csv("https://raw.githubusercontent.com/gzrcm/KUK_2/master/content/Data/VOY.csv", 
                 col_types = cols(X1 = col_skip()))
 
 VOY_chord<-as.matrix(reshape2::dcast(VOY, chr~to,fill=0))
@@ -59,7 +59,7 @@ diag(VOY_chord)=0
 VOY_CD<-chorddiag(VOY_chord,,width=500, showTicks = F, groupnameFontsize = 14, groupnamePadding = 10, margin = 90,groupColors = rainbow(12))
 
 ### TOS ###
-TOS <- read_csv("C://Users/jacob/Documents/KUK_2/content/Data/TOS.csv", 
+TOS <- read_csv("https://raw.githubusercontent.com/gzrcm/KUK_2/master/content/Data/TOS.csv", 
                 col_types = cols(X1 = col_skip()))
 
 TOS_chord<-as.matrix(reshape2::dcast(TOS, chr~to,fill=0))

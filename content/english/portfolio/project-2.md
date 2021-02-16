@@ -1,6 +1,6 @@
 ---
 categories:
-- "BI"
+- BI
 - For Work
 - Data Analysis
 date: "2021-01-05T21:48:51-07:00"
