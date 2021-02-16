@@ -5,8 +5,9 @@ description: This is meta description.
 draft: no
 image: images/portfolio/item2.png
 categories:
-- design
-- development
+- For Work
+- R
+- Text Analysis
 ---
 
 ```{r setup, include=FALSE,warning=FALSE}

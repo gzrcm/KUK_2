@@ -1,7 +1,8 @@
 ---
 categories:
-- design
-- development
+- For Fun
+- R
+- GIS
 date: "2018-05-05T21:48:51-07:00"
 description: This is meta description.
 draft: false

@@ -53,7 +53,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)
+    copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com) <br> Known Unknowns is a registered UK Company (12599426)
     home: Home
     languageCode: en-us
     languageName: En
