@@ -26,13 +26,15 @@ image: images/backgrounds/portrait2.png
 skill:
   enable: true
   skill_list:
-  - name: Intelligence Analysis
+  - name: Stakeholder Engagement
     percentage: 98%
-  - name: Data Analysis
+  - name: IT & Software Use
     percentage: 95%
-  - name: Project Management
+  - name: Strategic Awareness
     percentage: 90%
-  - name: Programming
+  - name: Cross Discipline Communication 
+    percentage: 82%
+  - name: Project Management
     percentage: 75%
   title: SKILL
 title: LEARN MORE <br> ABOUT ME

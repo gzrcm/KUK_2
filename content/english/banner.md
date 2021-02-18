@@ -3,7 +3,7 @@ bg_image: images/backgrounds/full-nav-bg.png
 button:
   enable: true
   label: HIRE ME
-  link: '#contact'
+  link: "mailto:jb@knownunknowns.co.uk?subject=Let's%20work%20together!&body=Hi%20Jacob"
 custom_attributes: ""
 custom_class: ""
 custom_css: ""
