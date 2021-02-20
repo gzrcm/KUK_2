@@ -260,6 +260,8 @@
                 <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name | markdownify }}">
               </div>
               <div class="service-label">{{ .name | markdownify }} 
+              <div class="card__tooltip">{{ .popup | markdownify }}
+                </div>
                 </div>
                 </div>
             {{ end }}

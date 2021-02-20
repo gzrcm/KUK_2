@@ -3,21 +3,19 @@ custom_attributes: ""
 custom_class: ""
 custom_css: ""
 testimonial_slider:
-- content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis
-    totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos
-    in iusto.
-  designation: Manager, Bristol Economic Development Team
-  image: images/clients/client1.jpg
-  name: Anesa Kritah
-- content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis
-    totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos
-    in iusto.
-  designation: Head of Programme Management - Regeneration & Housing Delivery, Newham Council
-  image: images/clients/client3.jpg
-  name: Fiona Belton
-- content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis
-    totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos
-    in iusto.
+# - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis
+#     totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos
+#     in iusto.
+#   designation: Manager, Bristol Economic Development Team
+#   image: images/clients/client1.jpg
+#   name: Anesa Kritah
+# - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis
+#     totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos
+#     in iusto.
+#   designation: Head of Programme Management - Regeneration & Housing Delivery, Newham Council
+#   image: images/clients/client3.jpg
+#   name: Fiona Belton
+- content: Jacob is one of the most thoughtful and practical data scientists that I've worked with. His ability to cut through complex issues to get to the heart of the matter and present information that is relatable and clear is invaluable. He is meticulous and diligent in everything he does and I have no hesitation in recommending him for any project, big or small. 
   designation: Partner, Inflect Partners
   image: images/clients/client2.jpg
   name: Carli Harper-Penman
