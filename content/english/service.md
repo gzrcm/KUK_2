@@ -20,6 +20,6 @@ service_list:
   popup: <b>We don't horde knowledge.</b> Our philosophy is to help you do what we do so you're empowered to carry on work into the future, ensuring business continuity and reinforcing your own organisational learning.
 - image: images/icons/PM.png
   name: Project Management
-  popup: <b>We speak techy so you don't have to.</b> By bridging the skills sets of your organisation we can unlock collaborations and benefits that were previously hidden, translating your unique needs into internally driven solutions or helping to get what you need while speaking plain english.
+  popup: <b>We speak techy so you don't have to.</b> By bridging the skills sets of your organisation we can unlock collaborations and benefits that were previously hidden, translating your unique needs into internally driven solutions or helping to get what you need while speaking plain English.
 title: SERVICES
 ---

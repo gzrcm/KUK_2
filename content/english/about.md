@@ -14,11 +14,11 @@ experience:
     duration: 2019-Present
     name: Data Scientist
   - company: Bristol City Council
-    content: Working with the Economic Development Team to deliver COVID economic recovery analysis and data visualisations assist the council in their decision-making process.
+    content: Working with the Economic Development Team to deliver COVID economic recovery analysis and data visualisations to assist the council in their decision-making process.
     duration: 2020-Present
     name: Business Analysis Consultant 
   - company: Inner Circle Consulting
-    content: Developing data-driven solutions for local governments across London using text analysis, machine-leaning and data visualisation to drive though difficult projects with high uncertainty.
+    content: Developing data-driven solutions for local governments across London using text analysis, machine-leaning and data visualisation to drive through difficult projects by reducing uncertainty and cutting complexity.
     duration: 2018-2019
     name: Data Analytics Consultant
   title: EXPERIENCE
