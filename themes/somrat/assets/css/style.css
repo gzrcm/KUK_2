@@ -1619,6 +1619,7 @@ ul.experience-chart h4 {
 
 .form-container textarea.form-control {
   height: auto;
+
 }
 
 input.form-control::-webkit-input-placeholder,
@@ -1631,7 +1632,9 @@ textarea.form-control::-webkit-input-placeholder,
 
 .submit {
   width: 120px;
-  margin: auto;
+  position: absolute;
+  right:    0;
+  bottom:   0;
   display: block;
 }
 

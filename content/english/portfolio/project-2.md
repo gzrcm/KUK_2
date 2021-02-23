@@ -12,9 +12,11 @@ title: "Recovery Dashboard"
 
 ### Background
 
-The following is a part of an ongoing project with [Bristol City Council Economic Development Team](https://www.bristol.gov.uk/business-support-advice/economic-information-and-analysis) regarding Economic Development and recovery in light of COVID and potentially Brexit. Bristol are a great team to work for and are very forward facing and happy to embrace new tools and ways of working as the UK responds to these unprecedented times.
+The following is a part of an ongoing project with [Bristol City Council Economic Development Team](https://www.bristol.gov.uk/business-support-advice/economic-information-and-analysis) regarding Economic Development and recovery in light of COVID and potentially Brexit. Bristol are a great team to work for, are very forward facing and happy to embrace new tools and ways of working as the UK responds to these unprecedented times.
 
-The goal is to create a highly automated data-led bulletin that only needs to be supplemented with commentary as and when it is relevant for update. Slowly snipping away at the industry of static reporting one bite at the time.
+Our goal is to create a highly automated data-led bulletin that only needs to be supplemented with commentary as and when it is relevant for update. This will allow the team to get on with policy and decision making while slowly snipping away at the industry of static reporting.
+
+Thanks to all the colleagues at Bristol Council who helped make this prototype a reality. 
 
 
 <iframe width="875" height="1140" src="https://app.powerbi.com/view?r=eyJrIjoiOGQ5MzUzYTAtNmJlMi00NWE0LTk4NzUtZTNkYTFkYTgxYmJiIiwidCI6IjIwMDA2MjIwLTFjNmEtNGJkMi05NDUzLWY4NjhjYzY0NGIzZiJ9&filterPaneEnabled=false" frameborder="0" allowFullScreen="true"></iframe>
