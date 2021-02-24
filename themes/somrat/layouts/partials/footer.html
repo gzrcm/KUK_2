@@ -13,6 +13,8 @@
         </div>
         <div class="credit content">
           {{ site.Params.copyright | markdownify }}
+          {{ template "_internal/google_analytics.html" . }}
+          {{ template "_internal/google_analytics_async.html" . }}
         </div>
       </div>
     </div>
