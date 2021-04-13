@@ -18,5 +18,5 @@ Our goal is to create a highly automated data-led bulletin that only needs to be
 
 Thanks to all the colleagues at Bristol Council who helped make this prototype a reality. 
 
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhYmI2YjQtZGQwMS00YzMzLWJhYTEtMDg1YmRjOWM1MTgwIiwidCI6IjIwMDA2MjIwLTFjNmEtNGJkMi05NDUzLWY4NjhjYzY0NGIzZiJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhYmI2YjQtZGQwMS00YzMzLWJhYTEtMDg1YmRjOWM1MTgwIiwidCI6IjIwMDA2MjIwLTFjNmEtNGJkMi05NDUzLWY4NjhjYzY0NGIzZiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
