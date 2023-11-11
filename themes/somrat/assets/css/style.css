@@ -48,7 +48,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2B2C2F;
+  background-color: #790418;
   z-index: 99999;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -617,7 +617,7 @@ input:checked+label span:last-child {
 }
 
 .menu-normal {
-  background: #fff;
+  background: #790418;
 }
 
 .menu-container-transparent {
@@ -668,7 +668,7 @@ input:checked+label span:last-child {
 }
 
 .desktop-menu .hvr-underline-from-left.dark:before {
-  background: #6f6f6f;
+  background: #fff;
 }
 
 .desktop-menu {
@@ -695,7 +695,7 @@ input:checked+label span:last-child {
 }
 
 .menu-item-transparent.menu-item a {
-  color: #6f6f6f;
+  color: #fff;
 }
 
 /* ========= Mobile Menu ======= */
@@ -1133,7 +1133,7 @@ ul.experience-chart h4 {
 
 .need-service {
   width: 100%;
-  background: #313131;
+  background: #790418;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1153,7 +1153,7 @@ ul.experience-chart h4 {
   top: 0;
   left: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0);
 }
 
 .need-service h1 {

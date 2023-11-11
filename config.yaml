@@ -4,7 +4,7 @@ theme: somrat
 paginate: '6'
 summaryLength: '10'
 disableLanguages: []
-googleAnalytics: 'G-C268H8Q615'
+googleAnalytics: ''
 disqusShortname: ''
 outputs:
   home: HTML
@@ -40,16 +40,8 @@ params:
       - link: plugins/owl-carousel/owl.carousel.min.js
   preloader:
     enable: yes
-    preloader: images/preloader.gif
+    preloader: images/logo.jpg
   social:
-    - icon: fab fa-telegram-plane
-      link: mailto:jb@knownunknowns.co.uk
-    - icon: fab fa-instagram
-      link: https://www.instagram.com/jb_known_unknowns
-    - icon: fab fa-github
-      link: https://github.com/gzrcm
-    - icon: fab fa-linkedin
-      link: https://www.linkedin.com/in/jacobbaisley
 Languages:
   en:
     contentDir: content/english
@@ -59,30 +51,21 @@ Languages:
     languageName: En
     menu:
       main:
-        - name: Home
-          url: /
-          weight: 1
-        - name: About me
+        - name: ABOUT
           pre: '#'
           url: about
+          weight: 1
+        - name: COMMIT NOW
+          pre: '#'
+          url: call-to-action
           weight: 2
-        - name: Service
+        - name: INSTAGRAM
           pre: '#'
-          url: service
+          url: "https://www.instagram.com/j_baisley_/"
           weight: 3
-        - name: Portfolio
+        - name: OFFERS
           pre: '#'
-          url: portfolio
-          weight: 4
-        - name: Testimonial
-          pre: '#'
-          url: testimonial
-          weight: 5
-        - name: Contact
-          pre: '#'
-          url: contact
-          weight: 6
-        - name: Blog
-          url: blog
-          weight: 7
+          url: "https://linktr.ee/JB.PT.Coach"
+          weight: 3
     weight: 1
+
